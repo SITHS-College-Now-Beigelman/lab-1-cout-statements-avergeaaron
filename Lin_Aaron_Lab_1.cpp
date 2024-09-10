@@ -1,4 +1,6 @@
-// Aaron Lin In-Class Lab 1: cout Statements 9/10/2024 //
+// Aaron Lin //
+// In-Class Lab 1: cout Statements //
+// 9/10/2024 //
 #include <iostream>
 using namespace std;
 
