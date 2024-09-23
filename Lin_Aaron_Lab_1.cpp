@@ -23,7 +23,7 @@ int main()
 
     return 0;
 }
-
+//Do not copy this line below. Only copy output - Ms. Beigelman
 /*[Running] cd "c:\Users\college\Documents\GitHub\lab-1-cout-statements-avergeaaron\" && g++ Lin_Aaron_Lab_1.cpp -o Lin_Aaron_Lab_1 && "c:\Users\college\Documents\GitHub\lab-1-cout-statements-avergeaaron\"Lin_Aaron_Lab_1
 ####################################################################################
 #                                                                                  #
